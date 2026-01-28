@@ -1,0 +1,33 @@
+
+{
+  "AL": [
+    {
+      "name": "Richard Shelby",
+      "contact_url": "https://www.shelby.senate.gov/public/index.cfm/contact"
+    },
+    {
+      "name": "Tommy Tuberville",
+      "contact_url": "https://www.tuberville.senate.gov/contact"
+    }
+  ],
+  "AK": [
+    {
+      "name": "Lisa Murkowski",
+      "contact_url": "https://www.murkowski.senate.gov/contact"
+    },
+    {
+      "name": "Dan Sullivan",
+      "contact_url": "https://www.sullivan.senate.gov/contact"
+    }
+  ],
+  "AZ": [
+    {
+      "name": "Kyrsten Sinema",
+      "contact_url": "https://www.sinema.senate.gov/contact"
+    },
+    {
+      "name": "Mark Kelly",
+      "contact_url": "https://www.kelly.senate.gov/contact"
+    }
+  ]
+}
