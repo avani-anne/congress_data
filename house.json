@@ -1,33 +1,206 @@
-
 {
   "AL": [
-    {
-      "name": "Richard Shelby",
-      "contact_url": "https://www.shelby.senate.gov/public/index.cfm/contact"
-    },
-    {
-      "name": "Tommy Tuberville",
-      "contact_url": "https://www.tuberville.senate.gov/contact"
-    }
+    {"name": "Richard Shelby", "contact_url": "https://www.shelby.senate.gov/public/index.cfm/contact"},
+    {"name": "Tommy Tuberville", "contact_url": "https://www.tuberville.senate.gov/contact"}
   ],
   "AK": [
-    {
-      "name": "Lisa Murkowski",
-      "contact_url": "https://www.murkowski.senate.gov/contact"
-    },
-    {
-      "name": "Dan Sullivan",
-      "contact_url": "https://www.sullivan.senate.gov/contact"
-    }
+    {"name": "Lisa Murkowski", "contact_url": "https://www.murkowski.senate.gov/contact"},
+    {"name": "Dan Sullivan", "contact_url": "https://www.sullivan.senate.gov/contact"}
   ],
   "AZ": [
-    {
-      "name": "Kyrsten Sinema",
-      "contact_url": "https://www.sinema.senate.gov/contact"
-    },
-    {
-      "name": "Mark Kelly",
-      "contact_url": "https://www.kelly.senate.gov/contact"
-    }
+    {"name": "Kyrsten Sinema", "contact_url": "https://www.sinema.senate.gov/contact"},
+    {"name": "Mark Kelly", "contact_url": "https://www.kelly.senate.gov/contact"}
+  ],
+  "AR": [
+    {"name": "John Boozman", "contact_url": "https://www.boozman.senate.gov/public/index.cfm/contact"},
+    {"name": "Tom Cotton", "contact_url": "https://www.cotton.senate.gov/contact"}
+  ],
+  "CA": [
+    {"name": "Dianne Feinstein", "contact_url": "https://www.feinstein.senate.gov/public/index.cfm/e-mail-me"},
+    {"name": "Alex Padilla", "contact_url": "https://www.padilla.senate.gov/contact"}
+  ],
+  "CO": [
+    {"name": "Michael Bennet", "contact_url": "https://www.bennet.senate.gov/public/index.cfm/email-me"},
+    {"name": "John Hickenlooper", "contact_url": "https://www.hickenlooper.senate.gov/contact"}
+  ],
+  "CT": [
+    {"name": "Richard Blumenthal", "contact_url": "https://www.blumenthal.senate.gov/contact"},
+    {"name": "Chris Murphy", "contact_url": "https://www.murphy.senate.gov/contact"}
+  ],
+  "DE": [
+    {"name": "Tom Carper", "contact_url": "https://www.carper.senate.gov/public/index.cfm/contact"},
+    {"name": "Chris Coons", "contact_url": "https://www.coons.senate.gov/contact"}
+  ],
+  "FL": [
+    {"name": "Marco Rubio", "contact_url": "https://www.rubio.senate.gov/public/index.cfm/contact"},
+    {"name": "Rick Scott", "contact_url": "https://www.rickscott.senate.gov/contact"}
+  ],
+  "GA": [
+    {"name": "Jon Ossoff", "contact_url": "https://www.ossoff.senate.gov/contact"},
+    {"name": "Raphael Warnock", "contact_url": "https://www.warnock.senate.gov/contact"}
+  ],
+  "HI": [
+    {"name": "Brian Schatz", "contact_url": "https://www.schatz.senate.gov/contact"},
+    {"name": "Mazie Hirono", "contact_url": "https://www.hirono.senate.gov/contact"}
+  ],
+  "ID": [
+    {"name": "Mike Crapo", "contact_url": "https://www.crapo.senate.gov/contact"},
+    {"name": "Jim Risch", "contact_url": "https://www.risch.senate.gov/contact"}
+  ],
+  "IL": [
+    {"name": "Dick Durbin", "contact_url": "https://www.durbin.senate.gov/contact"},
+    {"name": "Tammy Duckworth", "contact_url": "https://www.duckworth.senate.gov/contact"}
+  ],
+  "IN": [
+    {"name": "Todd Young", "contact_url": "https://www.young.senate.gov/contact"},
+    {"name": "Mike Braun", "contact_url": "https://www.braun.senate.gov/contact"}
+  ],
+  "IA": [
+    {"name": "Chuck Grassley", "contact_url": "https://www.grassley.senate.gov/contact"},
+    {"name": "Joni Ernst", "contact_url": "https://www.ernst.senate.gov/public/index.cfm/contact"}
+  ],
+  "KS": [
+    {"name": "Jerry Moran", "contact_url": "https://www.moran.senate.gov/public/index.cfm/contact"},
+    {"name": "Roger Marshall", "contact_url": "https://www.marshall.senate.gov/contact"}
+  ],
+  "KY": [
+    {"name": "Mitch McConnell", "contact_url": "https://www.mcconnell.senate.gov/public/index.cfm/contact"},
+    {"name": "Rand Paul", "contact_url": "https://www.paul.senate.gov/connect/email-rand"}
+  ],
+  "LA": [
+    {"name": "Bill Cassidy", "contact_url": "https://www.cassidy.senate.gov/contact"},
+    {"name": "John Kennedy", "contact_url": "https://www.kennedy.senate.gov/public/index.cfm/contact"}
+  ],
+  "ME": [
+    {"name": "Susan Collins", "contact_url": "https://www.collins.senate.gov/contact"},
+    {"name": "Angus King", "contact_url": "https://www.king.senate.gov/contact"}
+  ],
+  "MD": [
+    {"name": "Ben Cardin", "contact_url": "https://www.cardin.senate.gov/contact"},
+    {"name": "Chris Van Hollen", "contact_url": "https://www.vanhollen.senate.gov/contact"}
+  ],
+  "MA": [
+    {"name": "Elizabeth Warren", "contact_url": "https://www.warren.senate.gov/contact"},
+    {"name": "Ed Markey", "contact_url": "https://www.markey.senate.gov/contact"}
+  ],
+  "MI": [
+    {"name": "Debbie Stabenow", "contact_url": "https://www.stabenow.senate.gov/contact"},
+    {"name": "Gary Peters", "contact_url": "https://www.peters.senate.gov/contact"}
+  ],
+  "MN": [
+    {"name": "Amy Klobuchar", "contact_url": "https://www.klobuchar.senate.gov/public/index.cfm/contact"},
+    {"name": "Tina Smith", "contact_url": "https://www.smith.senate.gov/contact"}
+  ],
+  "MS": [
+    {"name": "Roger Wicker", "contact_url": "https://www.wicker.senate.gov/public/index.cfm/contact"},
+    {"name": "Cindy Hyde-Smith", "contact_url": "https://www.hydesmith.senate.gov/contact"}
+  ],
+  "MO": [
+    {"name": "Roy Blunt", "contact_url": "https://www.blunt.senate.gov/public/index.cfm/contact"},
+    {"name": "Josh Hawley", "contact_url": "https://www.hawley.senate.gov/contact"}
+  ],
+  "MT": [
+    {"name": "Jon Tester", "contact_url": "https://www.tester.senate.gov/contact"},
+    {"name": "Steve Daines", "contact_url": "https://www.daines.senate.gov/contact"}
+  ],
+  "NE": [
+    {"name": "Deb Fischer", "contact_url": "https://www.fischer.senate.gov/public/index.cfm/contact"},
+    {"name": "Pete Ricketts", "contact_url": "https://www.ricketts.senate.gov/contact"}
+  ],
+  "NV": [
+    {"name": "Catherine Cortez Masto", "contact_url": "https://www.cortezmasto.senate.gov/contact"},
+    {"name": "Jacky Rosen", "contact_url": "https://www.rosen.senate.gov/contact"}
+  ],
+  "NH": [
+    {"name": "Jeanne Shaheen", "contact_url": "https://www.shaheen.senate.gov/contact"},
+    {"name": "Maggie Hassan", "contact_url": "https://www.hassan.senate.gov/contact"}
+  ],
+  "NJ": [
+    {"name": "Bob Menendez", "contact_url": "https://www.menendez.senate.gov/contact"},
+    {"name": "Cory Booker", "contact_url": "https://www.booker.senate.gov/contact"}
+  ],
+  "NM": [
+    {"name": "Martin Heinrich", "contact_url": "https://www.heinrich.senate.gov/contact"},
+    {"name": "Ben Ray Luján", "contact_url": "https://www.lujan.senate.gov/contact"}
+  ],
+  "NY": [
+    {"name": "Chuck Schumer", "contact_url": "https://www.schumer.senate.gov/contact"},
+    {"name": "Kirsten Gillibrand", "contact_url": "https://www.gillibrand.senate.gov/contact"}
+  ],
+  "NC": [
+    {"name": "Richard Burr", "contact_url": "https://www.burr.senate.gov/contact"},
+    {"name": "Thom Tillis", "contact_url": "https://www.tillis.senate.gov/contact"}
+  ],
+  "ND": [
+    {"name": "John Hoeven", "contact_url": "https://www.hoeven.senate.gov/public/index.cfm/contact"},
+    {"name": "Kevin Cramer", "contact_url": "https://www.cramer.senate.gov/contact"}
+  ],
+  "OH": [
+    {"name": "Sherrod Brown", "contact_url": "https://www.brown.senate.gov/contact"},
+    {"name": "J.D. Vance", "contact_url": "https://www.vance.senate.gov/contact"}
+  ],
+  "OK": [
+    {"name": "James Lankford", "contact_url": "https://www.lankford.senate.gov/contact"},
+    {"name": "Markwayne Mullin", "contact_url": "https://www.mullin.senate.gov/contact"}
+  ],
+  "OR": [
+    {"name": "Ron Wyden", "contact_url": "https://www.wyden.senate.gov/contact"},
+    {"name": "Jeff Merkley", "contact_url": "https://www.merkley.senate.gov/contact"}
+  ],
+  "PA": [
+    {"name": "Bob Casey", "contact_url": "https://www.casey.senate.gov/contact"},
+    {"name": "John Fetterman", "contact_url": "https://www.fetterman.senate.gov/contact"}
+  ],
+  "RI": [
+    {"name": "Jack Reed", "contact_url": "https://www.reed.senate.gov/contact"},
+    {"name": "Sheldon Whitehouse", "contact_url": "https://www.whitehouse.senate.gov/contact"}
+  ],
+  "SC": [
+    {"name": "Lindsey Graham", "contact_url": "https://www.lgraham.senate.gov/contact"},
+    {"name": "Tim Scott", "contact_url": "https://www.scott.senate.gov/contact"}
+  ],
+  "SD": [
+    {"name": "Mike Rounds", "contact_url": "https://www.rounds.senate.gov/contact"},
+    {"name": "John Thune", "contact_url": "https://www.thune.senate.gov/contact"}
+  ],
+  "TN": [
+    {"name": "Marsha Blackburn", "contact_url": "https://www.blackburn.senate.gov/contact"},
+    {"name": "Bill Hagerty", "contact_url": "https://www.hagerty.senate.gov/contact"}
+  ],
+  "TX": [
+    {"name": "John Cornyn", "contact_url": "https://www.cornyn.senate.gov/contact"},
+    {"name": "Ted Cruz", "contact_url": "https://www.cruz.senate.gov/contact"}
+  ],
+  "UT": [
+    {"name": "Mike Lee", "contact_url": "https://www.lee.senate.gov/public/index.cfm/contact"},
+    {"name": "Mitt Romney", "contact_url": "https://www.romney.senate.gov/contact"}
+  ],
+  "VT": [
+    {"name": "Patrick Leahy", "contact_url": "https://www.leahy.senate.gov/contact"},
+    {"name": "Bernie Sanders", "contact_url": "https://www.sanders.senate.gov/contact"}
+  ],
+  "VA": [
+    {"name": "Mark Warner", "contact_url": "https://www.warner.senate.gov/public/index.cfm/contact"},
+    {"name": "Tim Kaine", "contact_url": "https://www.kaine.senate.gov/contact"}
+  ],
+  "WA": [
+    {"name": "Maria Cantwell", "contact_url": "https://www.cantwell.senate.gov/contact"},
+    {"name": "Patty Murray", "contact_url": "https://www.murray.senate.gov/contact"}
+  ],
+  "WV": [
+    {"name": "Joe Manchin", "contact_url": "https://www.manchin.senate.gov/contact"},
+    {"name": "Shelley Moore Capito", "contact_url": "https://www.capito.senate.gov/contact"}
+  ],
+  "WI": [
+    {"name": "Ron Johnson", "contact_url": "https://www.ronjohnson.senate.gov/contact"},
+    {"name": "Tammy Baldwin", "contact_url": "https://www.baldwin.senate.gov/contact"}
+  ],
+  "WY": [
+    {"name": "John Barrasso", "contact_url": "https://www.barrasso.senate.gov/public/index.cfm/contact"},
+    {"name": "Cynthia Lummis", "contact_url": "https://www.lummis.senate.gov/contact"}
+  ],
+  "DC": [
+    {"name": "Mikie Sherrill (Delegate)", "contact_url": "https://www.sherrill.house.gov/contact"},
+    {"name": "Eleanor Holmes Norton (Delegate)", "contact_url": "https://www.norton.house.gov/contact"}
   ]
 }
